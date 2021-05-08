@@ -1,0 +1,7 @@
+##
+## CyberOS repository mirrorlist
+## Last updated: 2021-05-08
+##
+
+## Germany
+Server = https://dir.omame.tech/mirrors/cyberos/$repo/os/$arch
