@@ -9,7 +9,7 @@ url="https://github.com/cyberos/cyberos-mirrorlist"
 license=('GPL')
 backup=(etc/pacman.d/cyberos-mirrorlist)
 source=(mirrorlist)
-md5sums=('0c39e82ebda159d3f5200dc5063a7445')
+md5sums=('923288022cc41a77529fe85783a8a797')
 
 package() {
 	mkdir -p "$pkgdir/etc/pacman.d"
