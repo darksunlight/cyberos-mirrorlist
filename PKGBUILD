@@ -2,14 +2,14 @@
 
 pkgname=cyberos-mirrorlist
 pkgver=20210509
-pkgrel=1
+pkgrel=2
 pkgdesc="CyberOS mirror list for use by pacman"
 arch=('any')
 url="https://github.com/cyberos/cyberos-mirrorlist"
 license=('GPL')
 backup=(etc/pacman.d/cyberos-mirrorlist)
 source=(mirrorlist)
-md5sums=('923288022cc41a77529fe85783a8a797')
+md5sums=('8fb238a2da418a2c89c1dd832dbe8a26')
 
 package() {
 	mkdir -p "$pkgdir/etc/pacman.d"
