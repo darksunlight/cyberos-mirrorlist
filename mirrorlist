@@ -4,7 +4,7 @@
 ##
 
 ## Tier 2 mirrors
-## Quebec, Canada
+## Canada
 Server = https://cyber.123780.xyz/$repo/os/$arch
 
 ## Tier 1 mirrors
