@@ -4,9 +4,11 @@
 ##
 
 ## Tier 2 mirrors
-## Germany
-Server = https://cyber.lukgth.de/$repo/os/$arch
+## Currently none.
 
 ## Tier 1 mirrors
 ## Germany
+Server = https://cyber.lukgth.de/$repo/os/$arch
+
+## Root mirror
 Server = https://dir.omame.tech/mirrors/cyberos/$repo/os/$arch

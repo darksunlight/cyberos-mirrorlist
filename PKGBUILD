@@ -1,8 +1,8 @@
 # Maintainer: omame <me@omame.tech>
 
 pkgname=cyberos-mirrorlist
-pkgver=20210508
-pkgrel=2
+pkgver=20210509
+pkgrel=1
 pkgdesc="CyberOS mirror list for use by pacman"
 arch=('any')
 url="https://github.com/cyberos/cyberos-mirrorlist"
