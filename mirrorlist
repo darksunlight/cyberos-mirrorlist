@@ -7,6 +7,9 @@
 ## Canada
 Server = https://cyber.123780.xyz/$repo/os/$arch
 
+## Russia
+Server = https://cyber.kittyle.org/$repo/os/$arch
+
 ## Tier 1 mirrors
 ## Germany
 Server = https://cyber.lukgth.de/$repo/os/$arch
