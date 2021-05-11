@@ -1,21 +1,21 @@
 ##
 ## CyberOS repository mirrorlist
-## Last updated: 2021-05-10
+## Last updated: 2021-05-11
 ##
 
 ## Tier 2 mirrors
 ## Canada
-Server = https://cyber.123780.xyz/$repo/os/$arch
+Server = https://cyber.123780.xyz/$repo/os/$arch # @darksunlight
 
 ## Japan
-Server = https://cyber-jp.123780.xyz/$repo/os/$arch
+Server = https://cyber-jp.123780.xyz/$repo/os/$arch # @darksunlight
 
 ## Russia
-Server = https://cyber.kittyle.org/$repo/os/$arch
+Server = https://cyber.kittyle.org/$repo/os/$arch # @KittyLe
 
 ## Tier 1 mirrors
 ## Germany
-Server = https://cyber.lukgth.de/$repo/os/$arch
+Server = https://cyber.lukgth.de/$repo/os/$arch # @lukgth
 
 ## Root mirror
-Server = https://dir.omame.tech/mirrors/cyberos/$repo/os/$arch
+Server = https://dir.omame.tech/mirrors/cyberos/$repo/os/$arch # @omaemae
