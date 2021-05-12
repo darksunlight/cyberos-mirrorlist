@@ -5,17 +5,22 @@
 
 ## Tier 2 mirrors
 ## Canada
-Server = https://cyber.123780.xyz/$repo/os/$arch# @darksunlight
+# @darksunlight
+Server = https://cyber.123780.xyz/$repo/os/$arch
 
 ## Japan
-Server = https://cyber-jp.123780.xyz/$repo/os/$arch# @darksunlight
+# @darksunlight
+Server = https://cyber-jp.123780.xyz/$repo/os/$arch
 
 ## Russia
-Server = https://cyber.kittyle.org/$repo/os/$arch# @KittyLe
+# @KittyLe
+Server = https://cyber.kittyle.org/$repo/os/$arch
 
 ## Tier 1 mirrors
 ## Germany
-Server = https://cyber.lukgth.de/$repo/os/$arch# @lukgth
+# @lukgth
+Server = https://cyber.lukgth.de/$repo/os/$arch
 
 ## Root mirror
-Server = https://dir.omame.tech/mirrors/cyberos/$repo/os/$arch# @omaemae
+# @omaemae
+Server = https://dir.omame.tech/mirrors/cyberos/$repo/os/$arch
